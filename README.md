@@ -8,10 +8,10 @@ The project implements an end-to-end data pipeline using **AWS S3, AWS Glue (Spa
 
 ##  Tools & Technologies
 
- **AWS S3** – Storage for raw and processed datasets
- **AWS Glue** – ETL processing using Apache Spark
- **Snowflake** – Data transformation, storage, and SQL analysis
- **Snowflake ODBC** – Connectivity between Snowflake and Power BI
+ **AWS S3** – Storage for raw and processed datasets,
+ **AWS Glue** – ETL processing using Apache Spark,
+ **Snowflake** – Data transformation, storage, and SQL analysis,
+ **Snowflake ODBC** – Connectivity between Snowflake and Power BI,
  **Power BI** – Interactive dashboards and data visualization
 
 ##  Key Outcomes
