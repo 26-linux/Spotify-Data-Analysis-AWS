@@ -4,7 +4,6 @@
 
 This project analyzes **Spotify 2023 tracks, albums, and artists data** to generate meaningful insights from a large-scale dataset of **400,000+ tracks**.
 
-The project implements an end-to-end data pipeline using **AWS S3, AWS Glue (Spark), Snowflake, and Power BI**. Raw data is stored in S3, transformed using AWS Glue, analyzed using Snowflake SQL, and visualized through an interactive Power BI dashboard.
 
 ##  Tools & Technologies
 
@@ -12,7 +11,7 @@ The project implements an end-to-end data pipeline using **AWS S3, AWS Glue (Spa
  **AWS Glue** – ETL processing using Apache Spark,
  **Snowflake** – Data transformation, storage, and SQL analysis,
  **Snowflake ODBC** – Connectivity between Snowflake and Power BI,
- **Power BI** – Interactive dashboards and data visualization
+ **Power BI** – Interactive dashboards and data visualization.
 
 ##  Key Outcomes
 
